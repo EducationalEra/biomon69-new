@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Виділення. Треморегуляція (4 години)
+# Виділення. Терморегуляція (4 години)
 
 
 <div class="js-hypercomments-container">
