@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Організми і середовище існування
+# Організми і середовище існування (6 годин)
 
 
 

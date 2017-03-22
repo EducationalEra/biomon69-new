@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Біорізноманіття 
+# Біорізноманіття  (4 години)
 
 
 

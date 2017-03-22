@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Обмін речовин та перетворення енергії в організмі людини
+# Обмін речовин та перетворення енергії в організмі людини (3 години)
 
 
 

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Різноманітність тварин
+# Різноманітність тварин (26 годин)
 
 
 <div class="js-hypercomments-container">

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Збереження та реалізація спадкової інформації
+# Збереження та реалізація спадкової інформації (11 годин)
 
 
 

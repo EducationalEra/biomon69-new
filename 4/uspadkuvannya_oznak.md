@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Закономірності успадкування ознак
+# Закономірності успадкування ознак (10 годин)
 
 
 

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Узагальнення
+# Узагальнення (2 години)
 
 
 <div class="js-hypercomments-container">

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Поведінка тварин
+# Поведінка тварин (10 годин)
 
 
 

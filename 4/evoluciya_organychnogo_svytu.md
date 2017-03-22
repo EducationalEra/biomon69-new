@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Еволюція органічного світу
+# Еволюція органічного світу (7 годин)
 
 
 <div class="js-hypercomments-container">

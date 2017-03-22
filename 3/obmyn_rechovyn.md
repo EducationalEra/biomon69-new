@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Організм людини як біологіна система
+# Організм людини як біологіна система (7 годин)
 
 
 <div class="js-hypercomments-container">

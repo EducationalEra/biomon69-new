@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Транспорт речовин
+# Транспорт речовин (7 годин)
 
 
 <div class="js-hypercomments-container">

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Різноманітність рослин
+# Різноманітність рослин (12 годин)
 
 
 <div class="js-hypercomments-container">

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Принципи функціонування клітини
+# Принципи функціонування клітини (6 годин)
 
 
 <div class="js-hypercomments-container">

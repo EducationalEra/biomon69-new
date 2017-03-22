@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Одноклітинні організми. Перехід до багатоклітинності
+# Одноклітинні організми. Перехід до багатоклітинності (8 годин)
 
 
 <div class="js-hypercomments-container">

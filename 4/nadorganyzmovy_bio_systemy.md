@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Надорганізмові біологічні системи
+# Надорганізмові біологічні системи (7 годин)
 
 
 <div class="js-hypercomments-container">

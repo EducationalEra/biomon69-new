@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи
+# Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи (7 годин)
 
 
 <div class="js-hypercomments-container">

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Вища нервова діяльність
+# Вища нервова діяльність (7 годин)
 
 
 <div class="js-hypercomments-container">

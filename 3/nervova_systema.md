@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Зв’язок організму людини із зовнішнім середовищем. Нервова система
+# Виділення. Треморегуляція (4 години)
 
 
 <div class="js-hypercomments-container">

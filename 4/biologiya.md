@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Біологія як основа біотехнології та медицини
+# Біологія як основа біотехнології та медицини (6 годин)
 
 
 

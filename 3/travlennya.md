@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Опора та рух
+# Опора та рух (6 годин)
 
 
 <div class="js-hypercomments-container">
