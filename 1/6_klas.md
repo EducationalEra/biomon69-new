@@ -7,53 +7,47 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="vstup.html">
-            <a href="vstup.html">
-                    <b></b>
-                Вступ
-            </a>
+        <li><a href="./vstup.md">Вступ</a>
+        <ul>
+            <li><a href="./ochikuvannya.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="2" data-path="klytyna.html">
-            <a href="klytyna.html">
-                    <b></b>
-                Клітина
-            </a>
+    <li><a href="./klytyna.md">Клітина</a>
+        <ul>
+            <li><a href="./ochikuvannya2.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist2.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="3" data-path="odnoklutynny.html">
-            <a href="odnoklutynny.html">
-                    <b></b>
-                Одноклітинні організми. Перехід до багатоклітинності
-            </a>
+    <li><a href="./odnoklutynny.md">Одноклітинні організми. Перехід до багатоклітинності</a>
+        <ul>
+            <li><a href="./ochikuvannya3.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist3.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="4" data-path="roslyny.html">
-            <a href="roslyny.html">
-                    <b></b>
-                Рослини
-            </a>
+    <li><a href="./roslyny.md">Рослини</a>
+        <ul>
+            <li><a href="./ochikuvannya4.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist4.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="5" data-path="ryznomanytnyst_roslyn.html">
-            <a href="ryznomanytnyst_roslyn.html">
-                    <b></b>
-                Різноманітність рослин
-            </a>
+    <li><a href="./ryznomanytnyst_roslyn.md">Різноманітність рослин</a>
+        <ul>
+            <li><a href="./ochikuvannya5.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist5.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="6" data-path="gryby.html">
-            <a href="gryby.html">
-                    <b></b>
-                Гриби
-            </a>
+    <li><a href="./gryby.md">Гриби</a>
+        <ul>
+            <li><a href="./ochikuvannya6.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist6.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="7" data-path="uzagalnennya.html">
-            <a href="uzagalnennya.html">
-                    <b></b>
-                Узагальнення
-            </a>
-    </li>
-    <li class="chapter " data-level="8" data-path="ekskursii.html">
-            <a href="ekskursii.html">
-                    <b></b>
-                Екскурсії
-            </a>
+    <li><a href="./uzagalnennya.md">Узагальнення</a>
+        <ul>
+            <li><a href="./ochikuvannya7.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist7.md">Зміст навчання</a></li>
+        </ul>
     </li>
 </ul>
 

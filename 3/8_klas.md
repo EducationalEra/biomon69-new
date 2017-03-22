@@ -7,81 +7,89 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="vstup.html">
-            <a href="vstup.html">
-                    <b></b>
-                Вступ
-            </a>
+        <li><a href="./vstup.md">Вступ</a>
+        <ul>
+            <li><a href="./ochikuvannya1b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist1b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="2" data-path="obmyn_rechovyn.html">
-            <a href="obmyn_rechovyn.html">
-                    <b></b>
-                Обмін речовин та перетворення енергії в організмі людини
-            </a>
+    <li><a href="./obmyn_rechovyn.md">Організм людини як біологічна система</a>
+        <ul>
+            <li><a href="./ochikuvannya2b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist2b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="3" data-path="travlennya.html">
-            <a href="travlennya.html">
-                    <b></b>
-                Травлення
-            </a>
+    <li><a href="./travlennya.md">Опора та рух</a>
+        <ul>
+            <li><a href="./ochikuvannya3b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist3b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="4" data-path="dykhannya.html">
-            <a href="dykhannya.html">
-                    <b></b>
-                Дихання
-            </a>
+    <li><a href="./dykhannya.md">Обмін речовин та перетворення енергії в організмі людини</a>
+        <ul>
+            <li><a href="./ochikuvannya4b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist4b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="5" data-path="transport_rechovyn.html">
-            <a href="transport_rechovyn.html">
-                    <b></b>
-                Транспорт  речовин
-            </a>
+    <li><a href="./transport_rechovyn.md">Травлення</a>
+        <ul>
+            <li><a href="./ochikuvannya5b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist5b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="6" data-path="vydylennya_termoregulaciya.html">
-            <a href="vydylennya_termoregulaciya.html">
-                    <b></b>
-                Виділення. Терморегуляція
-            </a>
+    <li><a href="./vydylennya_termoregulaciya.md">Дихання</a>
+        <ul>
+            <li><a href="./ochikuvannya6b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist6b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="7" data-path="opora_ta_rukh.html">
-            <a href="opora_ta_rukh.html">
-                    <b></b>
-                Опора та рух
-            </a>
+    <li><a href="./opora_ta_rukh.md">Транспорт речовин</a>
+        <ul>
+            <li><a href="./ochikuvannya7b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist7b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="8" data-path="nervova_systema.html">
-            <a href="nervova_systema.html">
-                    <b></b>
-                Зв’язок організму людини із зовнішнім середовищем. Нервова система
-            </a>
+    <li><a href="./nervova_systema.md">Виділення. Терморегуляція</a>
+        <ul>
+            <li><a href="./ochikuvannya8b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist8b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="9" data-path="sensorny_systemy.html">
-            <a href="sensorny_systemy.html">
-                    <b></b>
-                Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи
-            </a>
+    <li><a href="./sensorny_systemy.md">Зв’язок організму людини із зовнішнім середовищем. Нервова система</a>
+        <ul>
+            <li><a href="./ochikuvannya9b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist9b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="10" data-path="vyscha_nervova_diyalnist.html">
-            <a href="vyscha_nervova_diyalnist.html">
-                    <b></b>
-                Вища нервова діяльність
-            </a>
+    <li><a href="./vyscha_nervova_diyalnist.md">Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи</a>
+        <ul>
+            <li><a href="./ochikuvannya10b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist10b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="11" data-path="regulaciya_funkciy_organyzmy.html">
-            <a href="regulaciya_funkciy_organyzmy.html">
-                    
-                Регуляція функцій організму
-            </a>
+    <li><a href="./regulaciya_funkciy_organyzmy.md">Вища нервова діяльність</a>
+        <ul>
+            <li><a href="./ochikuvannya11b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist11b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="12" data-path="rozmnozhennya.html">
-            <a href="rozmnozhennya.html">
-                Розмноження та розвиток людини
-            </a>
+    <li><a href="./endokrynna.md">Ендокринна система</a>
+        <ul>
+            <li><a href="./ochikuvannya12b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist12b.md">Зміст навчання</a></li>
+        </ul>
     </li>
-    <li class="chapter " data-level="13" data-path="uzagalnennya.html">
-            <a href="uzagalnennya.html">
-                Узагальнення
-            </a>
+    <li><a href="./rozmnozhennya.md">Розмноження та розвиток людини</a>
+        <ul>
+            <li><a href="./ochikuvannya13b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist13b.md">Зміст навчання</a></li>
+        </ul>
+    </li>
+    <li><a href="./uzagalnennya.md">Узагальнення</a>
+        <ul>
+            <li><a href="./ochikuvannya14b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+            <li><a href="./zmist14b.md">Зміст навчання</a></li>
+        </ul>
     </li>
 </ul>
 

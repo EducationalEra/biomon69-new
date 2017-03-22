@@ -14,54 +14,48 @@
 	    <div role="tabpanel" class="tab-pane active" id="home">
 	    	<h3><a href="./1/5_klas.html">6 клас</a></h3>
             <ul class="articles" type="disc">
-		        <li class="chapter " data-level="1" data-path="1/vstup.html">
-		                <a href="1/vstup.html">
-		                        <b></b>
-		                    Вступ
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="2" data-path="1/klytyna.html">
-		                <a href="1/klytyna.html">
-		                        <b></b>
-		                    Клітина
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="3" data-path="1/odnoklutynny.html">
-		                <a href="1/odnoklutynny.html">
-		                        <b></b>
-		                    Одноклітинні організми. Перехід до багатоклітинності
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="4" data-path="1/roslyny.html">
-		                <a href="1/roslyny.html">
-		                        <b></b>
-		                    Рослини
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="5" data-path="1/ryznomanytnyst_roslyn.html">
-		                <a href="1/ryznomanytnyst_roslyn.html">
-		                        <b></b>
-		                    Різноманітність рослин
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="6" data-path="1/gryby.html">
-		                <a href="1/gryby.html">
-		                        <b></b>
-		                    Гриби
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="7" data-path="1/uzagalnennya.html">
-		                <a href="1/uzagalnennya.html">
-		                        <b></b>
-		                    Узагальнення
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="8" data-path="1/ekskursii.html">
-		                <a href="1/ekskursii.html">
-		                        <b></b>
-		                    Екскурсії
-		                </a>
-		        </li>
+		            <li><a href="1/vstup.md">Вступ</a>
+			        <ul>
+			            <li><a href="1/ochikuvannya.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="1/zmist.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="1/klytyna.md">Клітина</a>
+			        <ul>
+			            <li><a href="1/ochikuvannya2.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="1/zmist2.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="1/odnoklutynny.md">Одноклітинні організми. Перехід до багатоклітинності</a>
+			        <ul>
+			            <li><a href="1/ochikuvannya3.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="1/zmist3.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="1/roslyny.md">Рослини</a>
+			        <ul>
+			            <li><a href="1/ochikuvannya4.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="1/zmist4.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="1/ryznomanytnyst_roslyn.md">Різноманітність рослин</a>
+			        <ul>
+			            <li><a href="1/ochikuvannya5.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="1/zmist5.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="1/gryby.md">Гриби</a>
+			        <ul>
+			            <li><a href="1/ochikuvannya6.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="1/zmist6.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="1/uzagalnennya.md">Узагальнення</a>
+			        <ul>
+			            <li><a href="1/ochikuvannya7.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="1/zmist7.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
 		    </ul>
 		</div>
 		<div role="tabpanel" class="tab-pane" id="menu2">
@@ -114,159 +108,162 @@
 		<div role="tabpanel" class="tab-pane" id="menu3">
 	    	<h3><a href="./3/8_klas.html">8 Клас</a></h3>
             <ul class="articles" type="disc">
-		        <li class="chapter " data-level="1" data-path="3/vstup.html">
-		                <a href="3/vstup.html">
-		                        <b></b>
-		                    Вступ
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="2" data-path="3/obmyn_rechovyn.html">
-		                <a href="3/obmyn_rechovyn.html">
-		                        <b></b>
-		                    Обмін речовин та перетворення енергії в організмі людини
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="3" data-path="3/travlennya.html">
-		                <a href="3/travlennya.html">
-		                        <b></b>
-		                    Травлення
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="4" data-path="3/dykhannya.html">
-		                <a href="3/dykhannya.html">
-		                        <b></b>
-		                    Дихання
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="5" data-path="3/transport_rechovyn.html">
-		                <a href="3/transport_rechovyn.html">
-		                        <b></b>
-		                    Транспорт  речовин
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="6" data-path="3/vydylennya_termoregulaciya.html">
-		                <a href="3/vydylennya_termoregulaciya.html">
-		                        <b></b>
-		                    Виділення. Терморегуляція
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="7" data-path="3/opora_ta_rukh.html">
-		                <a href="3/opora_ta_rukh.html">
-		                        <b></b>
-		                    Опора та рух
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="8" data-path="3/nervova_systema.html">
-		                <a href="3/nervova_systema.html">
-		                        <b></b>
-		                    Зв’язок організму людини із зовнішнім середовищем. Нервова система
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="9" data-path="3/sensorny_systemy.html">
-		                <a href="3/sensorny_systemy.html">
-		                        <b></b>
-		                    Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="10" data-path="3/vyscha_nervova_diyalnist.html">
-		                <a href="3/vyscha_nervova_diyalnist.html">
-		                        <b></b>
-		                    Вища нервова діяльність
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="11" data-path="3/regulaciya_funkciy_organyzmy.html">
-		                <a href="3/regulaciya_funkciy_organyzmy.html">
-		                        
-		                    Регуляція функцій організму
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="12" data-path="3/rozmnozhennya.html">
-		                <a href="3/rozmnozhennya.html">
-		                    Розмноження та розвиток людини
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="13" data-path="3/uzagalnennya.html">
-		                <a href="3/uzagalnennya.html">
-		                    Узагальнення
-		                </a>
-		        </li>
+		        <li><a href="3/8_klas.md">8 клас</a></li>
+			    <li><a href="3/vstup.md">Вступ</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya1b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist1b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/obmyn_rechovyn.md">Організм людини як біологічна система</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya2b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist2b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/travlennya.md">Опора та рух</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya3b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist3b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/dykhannya.md">Обмін речовин та перетворення енергії в організмі людини</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya4b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist4b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/transport_rechovyn.md">Травлення</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya5b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist5b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/vydylennya_termoregulaciya.md">Дихання</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya6b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist6b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/opora_ta_rukh.md">Транспорт речовин</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya7b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist7b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/nervova_systema.md">Виділення. Терморегуляція</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya8b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist8b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/sensorny_systemy.md">Зв’язок організму людини із зовнішнім середовищем. Нервова система</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya9b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist9b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/vyscha_nervova_diyalnist.md">Зв’язок організму людини із зовнішнім середовищем. Сенсорні системи</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya10b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist10b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/regulaciya_funkciy_organyzmy.md">Вища нервова діяльність</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya11b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist11b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/endokrynna.md">Ендокринна система</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya12b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist12b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/rozmnozhennya.md">Розмноження та розвиток людини</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya13b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist13b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="3/uzagalnennya.md">Узагальнення</a>
+			        <ul>
+			            <li><a href="3/ochikuvannya14b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="3/zmist14b.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
 		    </ul>
 		</div>
 		<div role="tabpanel" class="tab-pane" id="menu4">
 	    	<h3><a href="./4/9_klas.html">9 Клас</a></h3>
             <ul class="articles">
-		        <li class="chapter " data-level="1" data-path="4/vstup.html">
-		                <a href="4/vstup.html">
-		                        <b></b>
-		                    Вступ
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="2" data-path="4/khim_sklad_bio_molekuly.html">
-		                <a href="4/khim_sklad_bio_molekuly.html">
-		                        <b></b>
-		                    Хімічний склад клітини та біологічні молекули
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="3" data-path="4/klityna.html">
-		                <a href="4/klityna.html">
-		                        <b></b>
-		                    Структура клітини
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="4" data-path="4/pryncypy_funkcionuvannya_klitiny.html">
-		                <a href="4/pryncypy_funkcionuvannya_klitiny.html">
-		                        <b></b>
-		                    Принципи функціонування клітини
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="5" data-path="4/spadkova_informaciya.html">
-		                <a href="4/spadkova_informaciya.html">
-		                        <b></b>
-		                    Збереження та реалізація спадкової інформації
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="6" data-path="4/uspadkuvannya_oznak.html">
-		                <a href="4/uspadkuvannya_oznak.html">
-		                        <b></b>
-		                    Закономірності успадкування ознак
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="7" data-path="4/evoluciya_organychnogo_svytu.html">
-		                <a href="4/evoluciya_organychnogo_svytu.html">
-		                        <b></b>
-		                    Еволюція органічного світу
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="8" data-path="4/bioriznomanyttya.html">
-		                <a href="4/bioriznomanyttya.html">
-		                        <b></b>
-		                    Біорізноманіття
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="9" data-path="4/nadorganyzmovy_bio_systemy.html">
-		                <a href="4/nadorganyzmovy_bio_systemy.html">
-		                        <b></b>
-		                    Надорганізмові біологічні системи
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="10" data-path="4/biologiya.html">
-		                <a href="4/biologiya.html">
-		                        <b></b>
-		                    Біологія як основа біотехнології та медицини
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="11" data-path="4/uzagalnennya.html">
-		                <a href="4/uzagalnennya.html">
-		                        <b></b>
-		                    Узагальнення
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="12" data-path="4/ekskursii.html">
-		                <a href="4/ekskursii.html">
-		                        <b></b>
-		                    Екскурсії
-		                </a>
-		        </li>
+		        <li><a href="4/vstup.md">Вступ</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya1c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist1c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/khim_sklad_bio_molekuly.md">Хімічний склад клітини та біологічні молекули</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya2c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist2c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/klityna.md">Структура клітини</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya3c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist3c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/pryncypy_funkcionuvannya_klitiny.md">Принципи функціонування клітини</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya4c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist4c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/spadkova_informaciya.md">Збереження та реалізація спадкової інформації</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya5c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist5c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/uspadkuvannya_oznak.md">Закономірності успадкування ознак</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya6c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist6c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/evoluciya_organychnogo_svytu.md">Еволюція органічного світу</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya7c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist7c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/bioriznomanyttya.md">Біорізноманіття</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya8c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist8c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/nadorganyzmovy_bio_systemy.md">Надорганізмові біологічні системи</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya9c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist9c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/biologiya.md">Біологія як основа біотехнології та медицини</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya10c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist10c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="4/uzagalnennya.md">Узагальнення</a>
+			        <ul>
+			            <li><a href="4/ochikuvannya11c.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="4/zmist11c.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
 		    </ul>
         </div>
     </div>
