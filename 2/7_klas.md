@@ -5,7 +5,6 @@
 ## (70 годин – 2 години на тиждень,  із них  6 годин – резервних)
 
 <ul class="articles" type="disc">
-    <li><a href="./7_klas.md">7 клас</a></li>
     <li><a href="./vstup.md">Вступ</a>
         <ul>
             <li><a href="./ochikuvannya1a.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>

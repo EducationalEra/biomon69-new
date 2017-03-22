@@ -61,54 +61,48 @@
 		<div role="tabpanel" class="tab-pane" id="menu2">
 	    	<h3><a href="./2/7_klas.html">7 клас</a></h3>
             <ul class="articles" type="disc">
-		        <li class="chapter " data-level="1" data-path="2/vstup.html">
-		                <a href="2/vstup.html">
-		                        <b></b>
-		                    Вступ
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="2" data-path="2/tvaryny.html">
-		                <a href="2/tvaryny.html">
-		                        <b></b>
-		                    Різноманітність тварин
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="3" data-path="2/procesy_zhyttediyalnosty_tvaryny.html">
-		                <a href="2/procesy_zhyttediyalnosty_tvaryny.html">
-		                        <b></b>
-		                    Процеси життєдіяльності тварин
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="4" data-path="2/povedynka_tvaryn.html">
-		                <a href="2/povedynka_tvaryn.html">
-		                        <b></b>
-		                    Поведінка тварин
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="5" data-path="2/organyzmy.html">
-		                <a href="2/organyzmy.html">
-		                        <b></b>
-		                    Організми і середовище існування
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="6" data-path="2/uzagalnennya.html">
-		                <a href="2/uzagalnennya.html">
-		                        <b></b>
-		                    Узагальнення
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="7" data-path="2/ekskursii.html">
-		                <a href="2/ekskursii.html">
-		                        <b></b>
-		                    Екскурсії
-		                </a>
-		        </li>
+				<li><a href="2/vstup.md">Вступ</a>
+			        <ul>
+			            <li><a href="2/ochikuvannya1a.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="2/zmist1a.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="2/tvaryny.md">Різноманітність тварин</a>
+			        <ul>
+			            <li><a href="2/ochikuvannya2a.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="2/zmist2a.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="2/procesy_zhyttediyalnosty_tvaryny.md">Процеси життєдіяльності тварин</a>
+			        <ul>
+			            <li><a href="2/ochikuvannya3a.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="2/zmist3a.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="2/povedynka_tvaryn.md">Поведінка тварин</a>
+			        <ul>
+			            <li><a href="2/ochikuvannya4a.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="2/zmist4a.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="2/organyzmy.md">Організми і середовище існування</a>
+			        <ul>
+			            <li><a href="2/ochikuvannya5a.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="2/zmist5a.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="2/uzagalnennya.md">Узагальнення</a>
+			        <ul>
+			            <li><a href="2/ochikuvannya6a.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+			            <li><a href="2/zmist6a.md">Зміст навчання</a></li>
+			        </ul>
+			    </li>
+			    <li><a href="2/ekskursii.md">Екскурсії</a></li>
 		    </ul>
 		</div>
 		<div role="tabpanel" class="tab-pane" id="menu3">
 	    	<h3><a href="./3/8_klas.html">8 Клас</a></h3>
             <ul class="articles" type="disc">
-		        <li><a href="3/8_klas.md">8 клас</a></li>
 			    <li><a href="3/vstup.md">Вступ</a>
 			        <ul>
 			            <li><a href="3/ochikuvannya1b.md">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
